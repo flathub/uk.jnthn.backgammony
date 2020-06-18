@@ -53,7 +53,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/jonathanballs/backgammony.git",
-                    "commit": "9e65eb737fd1aba1d06bf3d693cf770108eda9ed"
+                    "commit": "4cfa1ed81571d5536b3c777c25fb2023cee07b6e"
                 },
                 "generated-sources.json"
             ]
